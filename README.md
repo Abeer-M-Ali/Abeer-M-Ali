@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=E5B7D5&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+My+name+is+Abeer+Ragab;I'm+26+years+old+;I'm+from+Egypt;Be+Welcome!+%3A)" alt="Typing SVG" /></a>
 
-<!--[![Abeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abeer-M-Ali&bg_color=0d1117&color=e5b7be&line=e5b7be&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+[![Abeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abeer-M-Ali&bg_color=0d1117&color=e5b7be&line=e5b7be&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abeer-M-Ali&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
