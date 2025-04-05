@@ -2,11 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=E5B7D5&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+My+name+is+Abeer+Ragab;I'm+27+years+old+;I'm+from+Egypt;Be+Welcome!+%3A)" alt="Typing SVG" /></a>
 
-[![Abeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abeer-M-Ali&bg_color=0d1117&color=e5b7be&line=e5b7be&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+[![Abeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abeer-M-Ali&bg_color=0d1117&color=e5b7be&line=e5b7be&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <p align="center">
+ <!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abeer-M-Ali&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> 
+</p>  -->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Abeer-M-Ali&show_icons=true&count_private=true&hide_border=true&title_color=e5b7be&icon_color=e5b7be&text_color=c9d1d9&bg_color=0d1117" alt="Abeer-M-Ali github stats" /> 
@@ -46,10 +46,6 @@
 
 <!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> -->
-
-
-
-
 </p>
 
 <div align="center">
