@@ -1,59 +1,108 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e5b7d5&height=120&section=header"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4f4f4f&height=180&section=header&text=Abeer%20R.&fontSize=50&fontAlignY=35&desc=UI/UX%20Designer%20×%20Frontend%20Developer&descAlignY=55&animation=fadeIn&fontColor=ffffff)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=E5B7D5&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+My+name+is+Abeer+Ragab;I'm+27+years+old+;I'm+from+Egypt;Be+Welcome!+%3A)" alt="Typing SVG" /></a>
-
-[![Abeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abeer-M-Ali&bg_color=0d1117&color=e5b7be&line=e5b7be&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- <!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abeer-M-Ali&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>  -->
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Abeer-M-Ali&show_icons=true&count_private=true&hide_border=true&title_color=e5b7be&icon_color=e5b7be&text_color=c9d1d9&bg_color=0d1117" alt="Abeer-M-Ali github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeer-M-Ali&layout=compact&hide_border=true&title_color=e5b7be&text_color=e5b7be&bg_color=0d1117" />
-</div>
-
-
-<div align="center"> 
-<a href="https://www.linkedin.com/in/abeer-ragab-b25872260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "abeerragab5211@gmail.com
-"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
- 
- ### Main skills:
-
-<p align="center"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  -->
-<!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>  -->
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-6e57ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-00d8ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product-Design-9b8cff?style=for-the-badge" />
 </p>
 
+---
 
-### Studying in this moment:
+## 🌌 About Me
 
-<p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+Hi! I’m **Abeer R.** — a **UI/UX Designer and Frontend Developer** who blends
+**clean product thinking** with **soft, aesthetic visuals**.  
+I design intuitive experiences, craft smooth interfaces, and build real products
+using **React**, **TypeScript**, and **modern design systems**.
 
-<!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> -->
+I’m currently building:
+
+- ✦ **E-commerce Platform (UX → UI → React)**
+- ✦ **Design System + Component Library**
+- ✦ **AI Chat UI**
+- ✦ **Travel, Fintech, and Healthcare UX Case Studies**
+
+My work combines **clarity, emotion, and modern product logic**.  
+Soft visuals — strong thinking.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Design
+<p>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-1a1a1a?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white"/>
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Abeer-M-Ali}/count.svg"/></p> 
-<br>
-</div>
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=ffffff"/>
+</p>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e5b7d5&height=120&section=footer"/>
+## ✨ Featured Projects
 
+### 🌑 **1. React E-commerce Store**  
+A clean, modern e-commerce platform with Stripe, filtering, responsive UI, and product pages.  
+**Tech:** React, TS, Tailwind, Stripe  
+**→ Coming soon**
+
+---
+
+### 🌘 **2. Abeer Design System (ADS)**  
+Custom UI library with components, tokens, dark mode, and animations.  
+Perfect for scaling multiple projects.  
+**→ Coming soon**
+
+---
+
+### 🌗 **3. AI Chat UI**  
+A minimal conversational interface inspired by modern AI tools.  
+**→ Coming soon**
+
+---
+
+### 🌙 **4. Music Player App**  
+Soft aesthetic, wave animations, smooth UX interactions.  
+**→ Coming soon**
+
+---
+
+## 📚 UX Case Studies (In Progress)
+
+- **E-commerce shopping experience redesign**
+- **Travel booking app**
+- **Fintech banking app**
+- **Healthcare patient flow system**
+
+Each includes research → IA → wireframes → UI → prototype → dev handoff.
+
+---
+
+## 📈 GitHub Activity
+
+![Abeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbeerR&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerR&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🌐 Portfolio & Contact
+
+🚧 **Portfolio website — currently in development**  
+🔗 **LinkedIn (soon updated)**  
+📧 **Contact:** available in CV
+
+---
+
+<p align="center">  
+  <i>Soft visuals. Clean logic. Real products.</i>  
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4f4f4f,100:1a1a1a&height=140&section=footer)
