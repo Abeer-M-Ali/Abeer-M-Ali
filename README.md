@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4f4f4f&height=180&section=header&text=Abeer%20R.&fontSize=50&fontAlignY=35&desc=UI/UX%20Designer%20×%20Frontend%20Developer&descAlignY=55&animation=fadeIn&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4f4f4f&height=180&section=header&text=Abeer%20&fontSize=50&fontAlignY=35&desc=Full%20-%20Stack%20Developer&descAlignY=55&animation=fadeIn&fontColor=ffffff)
+
+<!-- Your comment here
 
 <p align="center">
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-6e57ff?style=for-the-badge" />
@@ -6,14 +8,21 @@
   <img src="https://img.shields.io/badge/Product-Design-9b8cff?style=for-the-badge" />
 </p>
 
+
 ---
+
+-->
 
 ## 🌌 About Me
 
-Hi! I’m **Abeer R.** — a **UI/UX Designer and Frontend Developer** who blends
+Hi! I’m **Abeer** — a **Full-Stack Developer** who blends
 **clean product thinking** with **soft, aesthetic visuals**.  
 I design intuitive experiences, craft smooth interfaces, and build real products
 using **React**, **TypeScript**, and **modern design systems**.
+
+
+
+<!-- Your comment here
 
 I’m currently building:
 
@@ -100,9 +109,13 @@ Each includes research → IA → wireframes → UI → prototype → dev handof
 📧 **Contact:** available in CV
 
 ---
+ 
+
 
 <p align="center">  
   <i>Soft visuals. Clean logic. Real products.</i>  
 </p>
+
+-->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4f4f4f,100:1a1a1a&height=140&section=footer)
